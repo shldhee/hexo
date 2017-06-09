@@ -9,7 +9,7 @@ excerpt_link: ......
 fancybox: false
 
 # Sidebar
-sidebar: 
+sidebar:
 widgets:
 - category
 - tag
@@ -26,7 +26,7 @@ google_analytics:
 favicon: /favicon.png
 twitter:
 google_plus:
-fb_admins: 
+fb_admins:
 fb_app_id:
 
 # scrollUp 样式
