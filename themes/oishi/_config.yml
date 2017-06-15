@@ -1,8 +1,8 @@
 # Header
 menu:
-  首页: /
-  生活: /categories/life
-  归档: /archives
+  HOME: /
+  # LIFE: /categories/life
+  ARCHIVES: /archives
 
 # Content
 excerpt_link: ......
@@ -31,3 +31,8 @@ fb_app_id:
 
 # scrollUp 样式
 scrollUp: image
+
+
+# Comment
+comment:
+    disqus: [shldhee]
