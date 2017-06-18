@@ -1,8 +1,9 @@
 # Header
 menu:
   HOME: /
-  # LIFE: /categories/life
+  LIFE: /categories
   ARCHIVES: /archives
+  TAG: /tag
 
 # Content
 excerpt_link: ......
