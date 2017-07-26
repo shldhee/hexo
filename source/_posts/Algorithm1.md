@@ -1,7 +1,7 @@
 ---
 title: Algorithm(Level1) - findKim
 date: 2017-07-25 01:18:23
-categories: Algorithm
+categories: algorithm
 tags:
     - Algorithm
     - javascript
