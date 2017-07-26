@@ -1,11 +1,11 @@
 ---
 title: Algorithm(Level1) - findKim
 date: 2017-07-25 01:18:23
-categories: algorithm
+categories: Algorithm
 tags:
     - Algorithm
-    - javascript
-    - js
+    - Javascript
+    - JS
 thumbnail:
 ---
 # 첫번째 알고리즘
