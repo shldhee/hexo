@@ -1,5 +1,5 @@
 ---
-title: algo-3
+title: Algorithm(Level2) - getDayName
 date: 2017-07-31 23:17:40
 categories: Algorithm
 tags:
@@ -69,4 +69,5 @@ console.log(getDayName(2,9));
 
 #### 1. 2016-1-1원래 금요일이므로
 	- agoDate를 구할 필요가 없음
+
 #### 2. 간단하게 `toString`을 이용하여 푼다.
