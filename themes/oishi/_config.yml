@@ -1,8 +1,12 @@
 # Header
 menu:
   HOME: /
+  CSS: /categories/css
+  HTML: /categories/html
   JAVASCRIPT: /categories/javascript
+  JAVA: /categories/java
   ALGORITHM: /categories/Algorithm
+  FREE: /categories/talk
   ARCHIVES: /archives
 
 # Content
