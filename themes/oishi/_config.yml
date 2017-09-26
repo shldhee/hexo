@@ -1,12 +1,15 @@
 # Header
 menu:
   HOME: /
+  ALGORITHM: /categories/Algorithm
   CSS: /categories/css
+  GIT: /categories/git
   HTML: /categories/html
   JAVASCRIPT: /categories/javascript
   JAVA: /categories/java
-  ALGORITHM: /categories/Algorithm
-  FREE: /categories/talk
+  REACT: /categories/react
+  TIL: /categories/til
+  FREE: /categories/free
   ARCHIVES: /archives
 
 # Content
