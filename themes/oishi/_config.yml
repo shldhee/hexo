@@ -2,14 +2,14 @@
 menu:
   HOME: /
   ALGORITHM: /categories/Algorithm
-  CSS: /categories/css
-  GIT: /categories/git
-  HTML: /categories/html
+  # CSS: /categories/css
+  # GIT: /categories/git
+  # HTML: /categories/html
   JAVASCRIPT: /categories/javascript
   JAVA: /categories/java
-  REACT: /categories/react
-  TIL: /categories/til
-  FREE: /categories/free
+  # REACT: /categories/react
+  # TIL: /categories/til
+  # FREE: /categories/free
   ARCHIVES: /archives
 
 # Content
