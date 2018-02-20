@@ -3,7 +3,7 @@ menu:
   HOME: /
   ALGORITHM: /categories/Algorithm
   # CSS: /categories/css
-  # GIT: /categories/git
+  GIT: /categories/git
   # HTML: /categories/html
   JAVASCRIPT: /categories/javascript
   JAVA: /categories/java
