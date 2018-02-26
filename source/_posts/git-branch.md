@@ -1,7 +1,7 @@
 ---
 title: git-branch
 date: 2018-02-20 13:07:07
-categories: Git
+categories: git
 tags:
     - git
     - branch
