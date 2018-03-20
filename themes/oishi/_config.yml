@@ -6,10 +6,10 @@ menu:
   GIT: /categories/git
   # HTML: /categories/html
   JAVASCRIPT: /categories/javascript
-  JAVA: /categories/java
+  # JAVA: /categories/java
   REACT: /categories/react
-  NODE.JS: /categories/nodejs
-  TIL: /categories/til
+  # NODE.JS: /categories/nodejs
+  # TIL: /categories/til
   # FREE: /categories/free
   ARCHIVES: /archives
 

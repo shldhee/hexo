@@ -1,8 +1,8 @@
 ---
-title: 20180125~
+title: React event binding
 date: 2018-01-25 00:49:05
-categories: til
-tags: til, react, create-react-app, state, event, handler
+categories: react
+tags: react, create-react-app, state, event, handler
 thumbnail:
 ---
 
