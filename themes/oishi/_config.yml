@@ -2,6 +2,7 @@
 menu:
   HOME: /
   ALGORITHM: /categories/Algorithm
+  HTTP: /http
   # CSS: /categories/css
   GIT: /categories/git
   # HTML: /categories/html
