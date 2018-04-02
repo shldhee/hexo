@@ -64,7 +64,7 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 plugins: hexo-generator-robotstxt
 ## Themes: https://hexo.io/themes/
-theme: oishi
+theme: polarbear
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
