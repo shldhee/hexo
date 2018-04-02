@@ -3,9 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.7.0"
+    "version": "3.5.0"
   },
   "dependencies": {
+    "ejs": "^2.5.8",
     "hexo": "^3.4.0",
     "hexo-auto-canonical": "^0.1.0",
     "hexo-autonofollow": "^1.0.1",
