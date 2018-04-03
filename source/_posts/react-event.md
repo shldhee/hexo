@@ -1,5 +1,5 @@
 ---
-title: React event binding
+title: React - event binding
 date: 2018-01-25 00:49:05
 categories: react
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Algorithm(Level2) - Harshad
+title: Algorithm - Harshad(Level2)
 date: 2017-12-20 16:50:17
 categories: Algorithm
 tags:
@@ -55,4 +55,4 @@ function Harshad(n){
 #### 2. 숫자문자열은 연산자 숫자를 이용해 숫자로 변환이 가능
 
 - 연산자를 활용해 문자열을 숫자로 변경
-- Number(p) + Number(c)를 +p + +c 로 변경 가능 
+- Number(p) + Number(c)를 +p + +c 로 변경 가능

@@ -1,5 +1,5 @@
 ---
-title: HTTP의 이해
+title: Network - HTTP의 이해
 date: 2018-03-30 00:16:54
 categories: http
 tags:

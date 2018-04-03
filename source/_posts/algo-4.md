@@ -1,5 +1,5 @@
 ---
-title: Algorithm(Level2) - getMinSum
+title: Algorithm - getMinSum(Level2)
 date: 2017-08-11 17:07:51
 categories: Algorithm
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Algorithm(Level2) - adder
+title: Algorithm - adder(Level2)
 date: 2017-07-29 00:54:55
 categories: Algorithm
 tags:

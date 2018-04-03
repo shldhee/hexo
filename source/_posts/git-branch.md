@@ -1,5 +1,5 @@
 ---
-title: git-branch
+title: Git - branch
 date: 2018-02-20 13:07:07
 categories: git
 tags:

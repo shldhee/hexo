@@ -1,5 +1,5 @@
 ---
-title: react-redux-1(reducer, connect, mapStateToProps)
+title: React - react-redux-1(reducer, connect, mapStateToProps)
 date: 2017-12-21 01:08:37
 categories: react
 tags: react, redux, reducer, container, component, mapStateToProps, connect

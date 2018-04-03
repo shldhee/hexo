@@ -1,5 +1,5 @@
 ---
-title: Scope, Lexical scoping, Closure
+title: JavaScript - Scope, Lexical scoping, Closure
 date: 2017-09-29 10:52:45
 categories: javascript
 tags:

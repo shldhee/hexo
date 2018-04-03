@@ -1,5 +1,5 @@
 ---
-title: Algorithm(Level2) - getDayName
+title: Algorithm - getDayName(Level2)
 date: 2017-07-31 23:17:40
 categories: Algorithm
 tags:

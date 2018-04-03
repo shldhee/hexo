@@ -1,5 +1,5 @@
 ---
-title: Algorithm(Level1) - findKim
+title: Algorithm - findKim(Level1)
 date: 2017-07-25 01:18:23
 categories: Algorithm
 tags:
