@@ -32,7 +32,7 @@ thumbnail:
 - `<tbody>`는 바로 DOM에 있을것 이다.
 - 따라서 CSS, JavaScript으로 찾을 수 있고 스타일을 변경하거나 조작이 가능하다.
 
-![dom-1](/hexo/source/images/JavaScript/dom-1.png)
+[<img title="big size image" src="https://raw.githubusercontent.com/shldhee/shldhee.github.io/master/images/JavaScript/dom-1.png">](https://raw.githubusercontent.com/shldhee/shldhee.github.io/master/images/JavaScript/dom-1.png)
 
 ### JavaScript vs DOM
 
@@ -44,7 +44,7 @@ thumbnail:
 - event가 발생할때 DOM node는 event를 내보낸다(발생시킨다).
 	- node란 어떤 객체의 구성 요소를 의미한다.
 
-![dom-2](/hexo/source/images/JavaScript/dom-2.jpg)
+![dom-2](https://raw.githubusercontent.com/shldhee/shldhee.github.io/master/images/JavaScript/dom-2.jpg)
 
 
 ### 결론
