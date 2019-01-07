@@ -90,8 +90,9 @@ thumbnail:
     }
     ```
 
-    -   문제 : inline요소에는 공백을 그대로 유지한다는 특성을 가지고 있다.(공백을 유지 하지 않으면 inline요소는 띄어쓰기 없이 붙어서 표시) 따라서 공백유지떄문에 한 줄에 2개의 요소만 표시된다.(`margin`값 수정하거나, 마크업을 붙여서 작성하는 방법등을 이용하여 수정가능)
-        ![float3](/images/newCss/float3.png)
+-   문제 : inline요소에는 공백을 그대로 유지한다는 특성을 가지고 있다.(공백을 유지 하지 않으면 inline요소는 띄어쓰기 없이 붙어서 표시) 따라서 공백유지떄문에 한 줄에 2개의 요소만 표시된다.(`margin`값 수정하거나, 마크업을 붙여서 작성하는 방법등을 이용하여 수정가능)
+   
+![float3](/images/newCss/float3.png)
 
 -   `float`대신 `display: table`을 사용
 -   `display: table`를 사용해서 테이블 레이아웃의 형태로 변경한다. 자식 요소들도 `tr`요소처럼 `display: table-row`, `td`처럼 `display :table-cell`을 추가한다. 또한 각줄마다 요소로 감싸줘야한다. `vertical-align`으로 수직정렬 가능
