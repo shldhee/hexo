@@ -53,7 +53,7 @@ theme:
 # Baidu Analytics
 baidu_analytics:
 # Google Analytics
-google_analytics:
+google_analytics: UA-103254205-1
 
 # Duoshuo
 duoshuo_shortname:
