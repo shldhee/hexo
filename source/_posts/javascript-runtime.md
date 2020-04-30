@@ -43,10 +43,10 @@ function printSquare(x) {
 printSquare(5);
 ```
 
-Step1|Step2|Step3|Step4|Step5|
---|--|--|--|--|
--|multiply(x, y)|console.log(s);||
-printSquare(5)|printSquare(5)|printSquare(5)|printSquare(5)||
+| Step1          | Step2          | Step3           | Step4          | Step5 |
+| -------------- | -------------- | --------------- | -------------- | ----- |
+| -              | multiply(x, y) | console.log(s); |                |
+| printSquare(5) | printSquare(5) | printSquare(5)  | printSquare(5) |       |
 
 * 콜스택의 각각은 **스택프레임(Stack Frame)**이라고 부릅니다.
 * 예외가 발생했을때 스택트레이스가 만들어지는 방식입니다. 스택 트레이스란 기본적으로 예외가 발생했을때 콜스택의 상태입니다.
@@ -75,15 +75,15 @@ function foo() {
 foo();
 ```
 
-Step1|Step2|Step3|Step4|Overflowing
---|--|--|--|--
--|-|-||foo()
--|-|-||foo()
--|-|-||foo()
--|-|-|foo()|foo()
--|-|foo()|foo()|foo()
--|foo()|foo()|foo()|foo()
-foo()|foo()|foo()|foo()|foo()
+| Step1 | Step2 | Step3 | Step4 | Overflowing |
+| ----- | ----- | ----- | ----- | ----------- |
+| -     | -     | -     |       | foo()       |
+| -     | -     | -     |       | foo()       |
+| -     | -     | -     |       | foo()       |
+| -     | -     | -     | foo() | foo()       |
+| -     | -     | foo() | foo() | foo()       |
+| -     | foo() | foo() | foo() | foo()       |
+| foo() | foo() | foo() | foo() | foo()       |
 
 `Maximum call stack size exceeded` 에러 발생
 
