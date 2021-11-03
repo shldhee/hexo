@@ -7,6 +7,7 @@ tags:
   - DOM
   - browser
 thumbnail:
+redirect: https://hasudoki.tistory.com/entry/JavaScript-DOM%EC%9D%B4%EB%9E%80-1
 ---
 
 - DOM 이란 뭘까? HTML 태그? JavaScript로 접근 하는 것? Node? 트리구조? 등등 용어만 들었을뿐 정확히 설명을 못했다.(이것뿐만 아니라 공부한 모든것들을 설명할 수가 없어 차근차근 정리해볼 계획이다.)
@@ -27,7 +28,7 @@ thumbnail:
 
 ### HTML과 DOM이 다른 점이 뭘까?
 
-- HTML 작성할때 실수(필요한 TAG를 생략 한 경우 등)를  브라우저가 고쳐준다.
+- HTML 작성할때 실수(필요한 TAG를 생략 한 경우 등)를 브라우저가 고쳐준다.
 - 예를 들면 HTML 작성시 `<table>` 안에 `<tbody>`없이 `<tr>,<th>`를 사용한 경우 개발자 도구를 보면 `<tbody>`가 존재한다.
 - `<tbody>`는 바로 DOM에 있을것 이다.
 - 따라서 CSS, JavaScript으로 찾을 수 있고 스타일을 변경하거나 조작이 가능하다.
@@ -42,10 +43,9 @@ thumbnail:
 - 예를 들면, element에 있는 mouseenter event를 확인하기 위해 JavaScript를 사용한다.
 - element는 사실 DOM node이다. DOM node의 DOM 속성을 통해 해당 event listener를 연결합니다.
 - event가 발생할때 DOM node는 event를 내보낸다(발생시킨다).
-	- node란 어떤 객체의 구성 요소를 의미한다.
+  - node란 어떤 객체의 구성 요소를 의미한다.
 
 ![dom-2](https://raw.githubusercontent.com/shldhee/shldhee.github.io/master/images/JavaScript/dom-2.jpg)
-
 
 ### 결론
 
@@ -57,4 +57,4 @@ thumbnail:
 
 **참조**
 
- - [CSS-Trick:What is the DOM?](https://css-tricks.com/dom/)
+- [CSS-Trick:What is the DOM?](https://css-tricks.com/dom/)

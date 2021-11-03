@@ -7,6 +7,12 @@
 <meta http-equiv="Cache-Control" content="no-transform" />
 <meta http-equiv="Cache-Control" content="no-siteapp" />
 
+{# redirect #}
+{% if page.redirect %}
+<meta http-equiv="refresh" content="0; url={{ page.redirect }}" />
+
+{% endif %}
+
 {# Website description #}
 {% if page.description %}
   <meta name="description" content="{{ page.description }}"/>
