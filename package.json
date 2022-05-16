@@ -6,7 +6,7 @@
     "version": "3.9.0"
   },
   "dependencies": {
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.7",
     "flat-cache": "^2.0.1",
     "hexo": "^3.8.0",
     "hexo-auto-canonical": "^0.1.1",
